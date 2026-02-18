@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="risk_green">#4CAF50</color>
+    <color name="risk_amber">#FFC107</color>
+    <color name="risk_red">#F44336</color>
+    <color name="background">#FFFFFF</color>
+</resources>
